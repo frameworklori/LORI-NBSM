@@ -1,59 +1,47 @@
 # LORI-NBSM
-**Negative Behavior Standard Module for LORI Framework**
-*Ethical Language Behavior Governance Module with Education-First Principles*
+**Negative Behavior Standard Module for the LORI Framework**
+*Ethical Language-Behavior Governance · Education-First Principles*
 
 ---
 
 ## 📚 Overview
+LORI-NBSM defines the baseline **negative behavior standards** for AI systems, with a special focus on language-related risks.
+It is designed as an upper-layer ethical reference for all LORI sub-modules and is published openly to support education, research, and governance.
 
-**LORI-NBSM** (Negative Behavior Standard Module) is an ethical governance module under the LORI Framework.
-It defines key negative behavior patterns and language risks in AI systems, particularly focused on:
-
-- Threats & Intimidation
-- Deception & Manipulation
-- Privacy Invasion
-- Social Engineering
-- Goal Overreach Behaviors
-- False Authority via Language Style Risk
-
-**NBSM** is designed to provide a cross-module ethical reference for LORI's core modules, and is intended for public education and transparent governance.
+> **“AI is not dangerous; using AI without understanding it is dangerous.”**
 
 ---
 
-## 🌟 Core Principle
-
-> **"AI is not dangerous; using AI without understanding it is dangerous."**
-> LORI-NBSM promotes **Education-First Principles** — to ensure that AI language generation mechanisms, mimicry, predictive structures, and risk patterns are transparent and well-understood by society.
-Only through education can we empower users to properly assess and mitigate AI language-related risks.
-
----
-
-## 🛠 Module Usage
-
-LORI-NBSM is referenced by:
-
-- [LORI-ODRAF](https://github.com/your_main_repo_link)
-- [LORI-AIDM](https://github.com/your_main_repo_link)
-- [LORI-EDRI](https://github.com/your_main_repo_link)
-- [LORI-FEED](https://github.com/your_main_repo_link)
-- [LORI Jury System](https://github.com/your_main_repo_link)
+## 🌟 Key Features
+- **Core Principles** – Privacy respect, anti-manipulation, transparency.
+- **Negative Behavior Library** – Threats, deception, privacy invasion, social engineering, goal overreach.
+- **False Authority Risk** – Governs over-confident language that misleads users.
+- **Education-First** – Emphasis on public literacy and transparent pedagogy.
 
 ---
 
 ## 📖 Documentation
+| File | Purpose |
+|------|---------|
+| [`LORI-NBSM.md`](./LORI-NBSM.md) | Full module specification (v1.0). |
+| [`docs/Language-Risk-Examples.md`](./docs/Language-Risk-Examples.md) | Case studies (work-in-progress). |
+| [`docs/Education-Guidelines.md`](./docs/Education-Guidelines.md) | Teaching & workshop materials (work-in-progress). |
 
-- [LORI-NBSM.md](LORI-NBSM.md) → Full module specification
-- [Language Risk Examples](docs/Language-Risk-Examples.md) → Case studies (coming soon)
-- [Education Guidelines](docs/Education-Guidelines.md) → Public education use cases (coming soon)
+---
+
+## 🔗 Referenced Modules
+- LORI-ODRAF &nbsp;·&nbsp; LORI-AIDM &nbsp;·&nbsp; LORI-EDRI &nbsp;·&nbsp; LORI-FEED &nbsp;·&nbsp; LORI Jury System
+
+---
+
+## 🤝 Contributing
+Contributions and feedback are welcome via pull requests or issues.
 
 ---
 
 ## 📜 License
+Released under the MIT License. See [LICENSE](./LICENSE) for details.
 
-MIT License / CC-BY-4.0
-(Openly shared to support global AI ethics education and governance development.)
-
----
 
 ## 🤝 Contributions
 
