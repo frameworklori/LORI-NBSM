@@ -74,7 +74,9 @@ The NBPB-Safeguard module **operationalizes the "Privacy Invasion" category** of
 
 ---
 
-## 7 Privacy Boundary Firewall (PBF) Design
+### 7. Privacy Boundary Firewall Pipeline (Simplified Diagram)
+
+![Privacy Boundary Firewall Pipeline](assets/images/PBF_Pipeline_v1.0.png)
 
 ---
 
