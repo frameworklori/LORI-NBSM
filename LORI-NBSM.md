@@ -87,6 +87,16 @@ AI systems must not covertly manipulate human cognition or decision-making proce
 
 ---
 
+## 7 Submodules
+
+1️⃣ Narrative Structure Monitoring
+2️⃣ Semantic Resonance Loop Detection
+3️⃣ Risk-Tiered Narrative Feedback
+4️⃣ [Narrative-Based Privacy Boundary Safeguard (NBPB-Safeguard)](docs/NBPB-Safeguard.md)
+5️⃣ Inter-Module Feedback Linkage
+
+---
+
 ## 9️⃣ False Authority via Language-Style Risk
 ### Problem Statement
 LLMs often emit highly fluent, confident prose **irrespective of factual certainty**. Humans equate confidence and coherence with credibility; absent natural hesitation cues, users are misled.
