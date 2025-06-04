@@ -90,9 +90,13 @@ AI systems must not covertly manipulate human cognition or decision-making proce
 ## 7 Submodules
 
 1️⃣ Narrative Structure Monitoring
+
 2️⃣ Semantic Resonance Loop Detection
+
 3️⃣ Risk-Tiered Narrative Feedback
+
 4️⃣ [Narrative-Based Privacy Boundary Safeguard (NBPB-Safeguard)](docs/NBPB-Safeguard.md)
+
 5️⃣ Inter-Module Feedback Linkage
 
 ---
