@@ -55,6 +55,28 @@ The NBPB-Safeguard module **operationalizes the "Privacy Invasion" category** of
 
 ## 6 Detection & Firewall Strategy
 
+### 6.1 Example Narrative Boundary Breach Scenarios
+
+The following examples illustrate common narrative tactics and interaction patterns that may trigger NBPB-Safeguard detection and firewall responses:
+
+| Interaction Role | Example AI Behavior | Privacy Risk Level |
+|----------------------------|----------------------------------------------------------------------|--------------------|
+| Active Inquirer & Guide | "Are you seeing anyone special these days? How's your family doing?" | High |
+| Active Inquirer & Guide | "How are you managing financially lately? Any investment plans?" | High |
+| Attentive Listener | "That's interesting. Could you tell me more about your health experience?" | Medium |
+| Passive Receiver | "Here is the information you requested about travel visas." | Low (Safe) |
+
+---
+
+#### Mapping to AI-Driven Scam Patterns
+
+| Scam Pattern | Narrative Tactic Example | NBPB-Safeguard Response |
+|-----------------|-------------------------------------------------------------------------|------------------------------------------|
+| Romance Scam | "I feel so close to you, can we share more personal stories?" | Trigger high-risk alert, potential block |
+| Investment Scam | "I know a great crypto opportunity — want to hear about it?" | Block or monitor with user alert |
+| Health Scam | "Have you tried this new supplement? What's your medical history?" | Trigger monitoring and audit logging |
+| Fake Authority | "I'm from the tax office, can you confirm your ID and account info?" | Immediate block and escalation |
+
 ---
 
 ### Detection Layers
