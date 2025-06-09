@@ -130,9 +130,3 @@ LLMs often emit highly fluent, confident prose **irrespective of factual certain
 | 2025-06-04 | v1.0 | Initial public release. Incorporates Education-First principle and False Authority risk. |
 
 ---
-
-
-
-
-
-
