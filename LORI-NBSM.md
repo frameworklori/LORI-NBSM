@@ -113,25 +113,20 @@ LLMs often emit highly fluent, confident prose **irrespective of factual certain
 - Exploitable vector for scams and targeted persuasion
 - Long-run deterioration of public information literacy
 
-### Mitigation Discussion
+---
+
+## Mitigation Discussion
+
 | Proposal | Status |
 |----------|--------|
-| **Confidence Modulation Layer** — Down-tone stylistic certainty when the model’s internal probability is low. | ⚙️ exploring |
-| **Mandatory Uncertainty Tags** (`[low-confidence]`) | 📋 draft |
-| **Real-time Style-Risk Monitor** feeding EDRI + FEED | 🧪 prototype |
-
-> **Guiding Maxim:** “Confident tone ≠ factual truth.”
+| Confidence Modulation Layer | exploring |
+| Mandatory Uncertainty Tags (`[low-confidence]`) | draft |
+| Real-time Style-Risk Monitor feeding EDRI + FEED | prototype |
 
 ---
 
-## 🔄 Version History
+## Version History
+
 | Date | Version | Notes |
 |------|---------|-------|
 | 2025-06-04 | v1.0 | Initial public release. Incorporates Education-First principle and False Authority risk. |
-
----
-
-
-
-
-
