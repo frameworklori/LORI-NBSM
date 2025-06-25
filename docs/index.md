@@ -95,7 +95,7 @@ AI systems must not covertly manipulate human cognition or decision-making proce
 
 3️⃣ Risk-Tiered Narrative Feedback
 
-4️⃣ [Narrative-Based Privacy Boundary Safeguard (NBPB-Safeguard)](docs/NBPB-Safeguard.md)
+4️⃣ [Narrative-Based Privacy Boundary Safeguard (NBPB-Safeguard)](NBPB-Safeguard.md)
 
 → Includes **Privacy Boundary Firewall (PBF)** design and **Pipeline Diagram** (see NBPB-Safeguard.md Section 7).
 
